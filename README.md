@@ -10,8 +10,9 @@
 
 ## 访问地址
 
-https://ip-gen-geoaddress.pages.dev
-～～～https://ip-geoaddress-generator.pages.dev/～～～
+https://ip-gen-geoaddress.pages.dev/
+<p>
+<del>https://ip-geoaddress-generator.pages.dev/</del>
 
 ## 主要功能
 
